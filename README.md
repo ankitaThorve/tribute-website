@@ -2,7 +2,7 @@
 
 # Tribute Page
 
-A responsive tribute page built with HTML, CSS, and JavaScript to honor and celebrate the life and achievements of *Lata Mangeshkar*.
+A responsive tribute page built with HTML and CSS to honor and celebrate the life and achievements of *Lata Mangeshkar*.
 
 ## 🌟 Features
 
