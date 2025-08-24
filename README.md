@@ -20,7 +20,7 @@ A responsive tribute page built with HTML and CSS to honor and celebrate the lif
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://yourusername.github.io/tribute-page)
+[View Live Demo](https://ankitathorve.github.io/tribute-website/)
 
 ## 🛠️ Technologies Used
 
@@ -88,7 +88,7 @@ tribute-page/
 The main colors can be modified in the CSS custom properties:
 
 ```css
-:root {
+: root {
   --primary-color: #2c3e50;
   --secondary-color: #3498db;
   --accent-color: #e74c3c;
@@ -143,9 +143,9 @@ Contributions are welcome! Here's how you can help:
 ## 📞 Contact
 
 **Ankita Thorve**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@ankitaThorve](https://github.com/ankitaThorve)
 - Email: ankietathorve@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/ankita-thorve)
 
 ## 📊 Project Stats
 
