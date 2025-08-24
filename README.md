@@ -89,9 +89,6 @@ The main colors can be modified in the CSS custom properties:
 
 ```css
 : root {
-  --primary-color: #2c3e50;
-  --secondary-color: #3498db;
-  --accent-color: #e74c3c;
   --text-color: #333;
   --border-color: rgb(175, 96, 185);
   --background-color: rgb(238, 208, 242);
