@@ -93,7 +93,8 @@ The main colors can be modified in the CSS custom properties:
   --secondary-color: #3498db;
   --accent-color: #e74c3c;
   --text-color: #333;
-  --background-color: #fff;
+  --border-color: rgb(175, 96, 185);
+  --background-color: rgb(238, 208, 242);
 }
 ```
 */
@@ -145,7 +146,7 @@ Contributions are welcome! Here's how you can help:
 **Ankita Thorve**
 - GitHub: [@ankitaThorve](https://github.com/ankitaThorve)
 - Email: ankietathorve@gmail.com
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/ankita-thorve)
+- LinkedIn: [Ankita Thorve](www.linkedin.com/in/ankita-thorve)
 
 ## 📊 Project Stats
 
